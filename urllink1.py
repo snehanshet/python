@@ -2,6 +2,9 @@
 # http://www.py4e.com/code3/bs4.zip
 # and unzip it in the same directory as this file
 
+#to run this u can also install Beautiful Soup 
+#https://pypi.python.org/pypi/beautifulsoup4
+
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
